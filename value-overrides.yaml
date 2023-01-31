@@ -41,7 +41,7 @@ ingress:
 # @default -- See values.yaml
 persistence:
   config:
-    enabled: false
+    enabled: true
 
 resources:
   # -- Configure resource requests and limits
